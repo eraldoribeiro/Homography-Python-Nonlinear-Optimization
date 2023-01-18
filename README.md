@@ -6,12 +6,12 @@ $$
 \begin{align}  
 \begin{bmatrix}      
 u \\      
-v    
+v 
 \end{bmatrix}  
 &=  T^{-1}  
 \begin{bmatrix}      
 x \\      
-y    
+y 
 \end{bmatrix}.   
 \label{eq_xy2uv}  
 \end{align}
