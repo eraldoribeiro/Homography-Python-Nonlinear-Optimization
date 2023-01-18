@@ -9,6 +9,23 @@ $$
 
 
 $$
-
-x \begin{align}{\bf p}_{uv} &=\begin{bmatrix}    \frac{4}{5} & -\frac{3}{5} \\    \frac{3}{5} & \frac{4}{5}  \end{bmatrix}^{-1}{\bf p}_{xy} \notag \\ &= \begin{bmatrix}    \frac{4}{5} & \frac{3}{5} \\    -\frac{3}{5} & \frac{4}{5}  \end{bmatrix}\begin{bmatrix}    4  \\    3   \end{bmatrix}  \notag \\ &=   \begin{bmatrix}    5  \\    0   \end{bmatrix}.  \end{align}
+\begin{align}
+{\bf p}_{uv} &=
+\begin{bmatrix}    
+\frac{4}{5} & -\frac{3}{5} \\    
+\frac{3}{5} & \frac{4}{5}  
+\end{bmatrix}^{-1}{\bf p}_{xy} \notag \\ 
+&= 
+\begin{bmatrix}    
+\frac{4}{5} & \frac{3}{5} \\    
+-\frac{3}{5} & \frac{4}{5}  
+\end{bmatrix}
+\begin{bmatrix}    
+4  \\    3   
+\end{bmatrix}  \notag \\ 
+&=   
+\begin{bmatrix}    
+5  \\ 0
+\end{bmatrix}.  
+\end{align}
 $$
