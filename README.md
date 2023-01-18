@@ -25,7 +25,8 @@ $$
 \end{bmatrix}  \notag \\ 
 &=   
 \begin{bmatrix}    
-5  \\ 0
+5  \\ 
+0
 \end{bmatrix}.  
 \end{align}
 $$
