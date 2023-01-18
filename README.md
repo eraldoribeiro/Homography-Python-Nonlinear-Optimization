@@ -3,7 +3,18 @@ Example of homography estimation: linear solution + nonlinear optimization refin
 
 
 $$
-				 \begin{align}  \begin{bmatrix}      u \\      v    \end{bmatrix}  &=  T^{-1}  \begin{bmatrix}      x \\      y    \end{bmatrix}.   \label{eq_xy2uv}  \end{align}
+\begin{align}  
+\begin{bmatrix}      
+u \\      
+v    
+\end{bmatrix}  
+&=  T^{-1}  
+\begin{bmatrix}      
+x \\      
+y    
+\end{bmatrix}.   
+\label{eq_xy2uv}  
+\end{align}
 $$
 
 
